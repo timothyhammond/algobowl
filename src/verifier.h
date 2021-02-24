@@ -7,7 +7,8 @@
 
 
 class verifier {
-
+    private vector<int> covered;
+    private vector<int> output;
 };
 
 
